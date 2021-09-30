@@ -1,6 +1,6 @@
 {
-    "name": "ecodev/graphql-upload",
-    "description": "A middleware to support file uploads in GraphQL",
+    "name": "hkreuter/graphql-upload",
+    "description": "A middleware to support file uploads in GraphQL. Forked from ecodev/graphql-upload.",
     "type": "library",
     "keywords": ["api", "graphql", "upload", "multipart", "middleware"],
     "scripts": {
