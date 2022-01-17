@@ -12,6 +12,15 @@ A [PSR-15](https://www.php-fig.org/psr/psr-15/) middleware to support file uploa
 [the multipart request specification](https://github.com/jaydenseric/graphql-multipart-request-spec)
 for [webonyx/graphql-php](https://github.com/webonyx/graphql-php).
 
+## DISCLAIMER
+
+This forked version of  [ecodev/graphql-upload](https://github.com/Ecodev/graphql-upload) was created based on 4.1 tag 
+to support PHP8.
+
+```sh
+composer require hkreuter/graphql-upload v0.1.0
+```
+
 
 ## Quick start
 
